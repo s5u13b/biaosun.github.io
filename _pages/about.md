@@ -15,6 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!--
+bundle exec jekyll serve --force_polling --livereload
+-->
+
 <span class='anchor' id='biography'></span>
 
 # Biography
@@ -65,10 +69,20 @@ Prior to that, I received my M.Eng. degree from the [School of Computer Science 
 
   *Intern System Researcher*
   - Contribute to the training and inference optimization of the stable diffusion models on MiaoHua platform.
-  - Reproduce the training activation memory compression optimization proposed in Gist (*ISCA’18*, not open sourced).
+  - Reproduce the training activation memory compression optimization proposed in Gist.
 <!--
 implement packed-relu-pool and compressed-relu-conv operators.
 -->
+</div>
+
+<div class='paper-box-text' markdown="1">
+- Platform of Artificial Intelligence, **Alibaba Cloud**, Beijing. (07/2021 - 12/2021)
+
+  *Intern Researcher*
+  - Contribute to EasyScale, an elastic training system that achieves consistent model accuracy under resource
+ elasticity for both homogeneous and heterogeneous GPUs.
+  - EasyScale: Elastic Training with Consistent Accuracy and Improved Utilization on GPUs (*SC’23*, fourth author) [[Paper]](https://arxiv.org/pdf/2208.14228)[[Talk]](https://www.youtube.com/watch?v=a63MWTKcSbM)
+
 </div>
 
 
