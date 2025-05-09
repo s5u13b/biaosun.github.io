@@ -30,7 +30,7 @@ Prior to that, I received my M.Eng. degree from the [School of Computer Science 
 
 <span class='anchor' id='-education'></span>
 
-# 🎓 Education
+# Education
 
 <div class='paper-box-text' markdown="1">
 - M.Eng., Computer Science, **Beihang University**, Beijing. (09/2021 - 06/2024)
@@ -44,9 +44,9 @@ Prior to that, I received my M.Eng. degree from the [School of Computer Science 
 </div>
 
  
-<span class='anchor' id='-experience'></span>
+<span class='anchor' id='-work-experience'></span>
 
-# 💻 Experience
+# Work Experience
 
 <div class='paper-box-text' markdown="1">
 - Platform of Artificial Intelligence, **Alibaba Cloud**, Hangzhou. (07/2024 - Now)
@@ -55,6 +55,10 @@ Prior to that, I received my M.Eng. degree from the [School of Computer Science 
   - Core contributor of Llumnix, a dynamic scheduling system for large language model serving. [[Code]](https://github.com/AlibabaPAI/llumnix)
   - Core maintainer of EasyCkpt, a high performance asynchronous checkpointing framework for large language model training, accelerating Qwen2.5 and Qwen3 training. [[Doc]](https://help.aliyun.com/zh/pai/user-guide/easyckpt)
 </div>
+
+<span class='anchor' id='-intern-experience'></span>
+
+# Intern Experience
 
 <div class='paper-box-text' markdown="1">
 - Platform of Artificial Intelligence, **Alibaba Cloud**, Beijing. (06/2023 - 06/2024)
@@ -88,7 +92,7 @@ implement packed-relu-pool and compressed-relu-conv operators.
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Publications
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OSDI’24</div><img src='images/llumnix_arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -133,7 +137,8 @@ implement packed-relu-pool and compressed-relu-conv operators.
 
 <span class='anchor' id='-awards'></span>
 
-# 🏅 Awards
+# Awards
+- **Top 10 Parents of Alibaba Cloud & Tongyi(Qwen) Lab**, Alibaba Cloud, 2025
 - **CCF HPCChina Outstanding Paper Award**, Beihang University, 2022
 - **National Encouragement Scholarship**, South China University of Technology, 2019
 - **National Scholarship**, South China University of Technology, 2018
